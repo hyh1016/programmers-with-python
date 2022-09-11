@@ -13,3 +13,11 @@ def solution(s):
     if left != right:
         answer = False
     return answer
+
+# debug
+s = '(())'
+print(solution(s)) # True
+
+# debug
+s = '())('
+print(solution(s)) # False
