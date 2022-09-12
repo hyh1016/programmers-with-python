@@ -3,5 +3,5 @@ def solution(s):
     return str(min(numbers)) + ' ' + str(max(numbers))
 
 #debug
-s = '3 1 4 2'
-print(solution(s))
+# example: "3 1 4 2"
+print(solution(input()))

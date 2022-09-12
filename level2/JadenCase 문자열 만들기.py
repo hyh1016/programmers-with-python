@@ -11,4 +11,6 @@ def solution(s):
         new_words.append(new_word)
     return ' '.join(new_words)
 
-print(solution("3people unFollowed me"))
+# debug
+# example: 3people unFollowed me
+print(solution(input()))
