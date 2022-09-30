@@ -1,5 +1,5 @@
 # programmers-with-python
-**Python과 함께하는 즐거운 Programmers 문제풀이 🙂🙃**
+**Java & Python과 함께하는 즐거운 Programmers 문제풀이 🙂🙃**
 
 ## **Author**
 성심성의껏 풀고 있는 나 ([@hyh1016](https://github.com/hyh1016))
